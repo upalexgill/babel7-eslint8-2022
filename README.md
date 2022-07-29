@@ -1,6 +1,6 @@
 # Babel 7 / Eslint 8 (Jul 2022)
 
-JavaScript compiling and standards using latest versions Babel 7 and Eslint 8.
+JavaScript compiling/minifying and coding standards using latest versions Babel 7 and Eslint 8.
 
 ## Installation
 
